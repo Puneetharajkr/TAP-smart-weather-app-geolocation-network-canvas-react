@@ -127,15 +127,7 @@ Follow the steps below to clone and run this project locally:
 
 
 ### 📹 Screen Recording
-📽️ Click to Watch Video Demo: !(https://drive.google.com/file/d/1EB5qELlsvJwqVDHNoh_1U-5vxNMNaTEj/view?usp=sharing)  
-
----
-
-## 📜 PDF / Modal Explanation
-
-If you wish to attach a **PDF** or embed a **modal walkthrough**, you can:
-- Add it under `/docs` folder as `weather-app-explanation.pdf`
-- Or build a React Modal in `App.jsx` that pops up on button click with project overview
+📽️ Click to Watch Video Demo: (https://drive.google.com/file/d/1EB5qELlsvJwqVDHNoh_1U-5vxNMNaTEj/view?usp=sharing)  
 
 ---
 
@@ -150,12 +142,25 @@ If you wish to attach a **PDF** or embed a **modal walkthrough**, you can:
 
 ---
 
+## 💼 Hire Me on Fiverr
+
+I’m also available for freelance projects on Fiverr. If you liked this project or want help with a custom solution, feel free to check out my gigs:
+
+- 👨‍💻 [**My Fiverr Profile**](https://www.fiverr.com/s/YRz5LEN)
+- ⚛️ [React Frontend Development Gig](https://www.fiverr.com/s/yvageBq)
+- 🧱 [MERN Full Stack Web App Gig](https://www.fiverr.com/s/qDvBboZ)
+- 🖥️ [Node.js Backend Development Gig](https://www.fiverr.com/s/2K9Ppvk)
+
+Let’s build something great together! 🚀
+
+---
+
 ## 🙏 Thank You!
 
 Thank you for taking the time to review this project!  
 I hope this demonstrates my understanding of React fundamentals, browser APIs, and frontend problem-solving.
 
-If you liked this project or want to discuss opportunities, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/puneetharajkr21).
+If you liked this project or want to discuss opportunities, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/puneetharaj-k-r-49929a239/).
 
 ---
 
