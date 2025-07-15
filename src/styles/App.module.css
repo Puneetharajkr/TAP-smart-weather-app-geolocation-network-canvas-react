@@ -1,0 +1,33 @@
+.appWrapper {
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 2rem;
+  min-height: 100vh;
+  background: linear-gradient(to bottom, #89f7fe, #66a6ff);
+}
+
+.heading {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.loading {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.networkAlert {
+  color: red;
+  font-weight: bold;
+}
+
+.networkInfo {
+  color: #222;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
